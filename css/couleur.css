@@ -1,0 +1,58 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /*background-color:rgba(192,192,192,0.3);*/
+}
+#container {
+padding: 3%;
+position: relative;
+}
+.row { margin: 3%;}
+.titre {margin-bottom: 5%;}
+h1 {
+  font-family: URW Chancery L;
+  color: hsl(120,100%,30%);
+  font-size: 4.5em;
+  text-align: center;
+}
+h2 {  font-size: 3em; text-align: center;}
+h3 {  font-size: 2em; text-align: center;margin-bottom: 3%;}
+
+span:first-child {color: #cc0000;}
+span:nth-child(2) {color: #ffa31a;}
+span:nth-child(3) {color: #e6e600;}
+span:nth-child(4) {color: #ff1a8c;}
+span:nth-child(5) {color: #3399cc;}
+span:nth-child(6) {color: #66cc66;}
+span:nth-child(7) {color: #cc0000;}
+span:nth-child(8) {color: #ffa31a;}
+span:nth-child(9) {color: #e6e600;}
+span:nth-child(10) {color: #ff1a8c;}
+span:nth-child(11) {color: #3399cc;}
+span:nth-child(12) {color: #66cc66;}
+span:nth-child(13) {color: #cc0000;}
+span:nth-child(14) {color: #ffa31a;}
+span:nth-child(15) {color: #e6e600;}
+span:nth-child(16) {color: #ff1a8c;}
+span:nth-child(17) {color: #3399cc;}
+
+img {
+  border: 2px solid black;
+  float: left;
+  margin-top: 2em;
+  margin-left: 2em;
+}
+
+#poubelle, #poubelle1, #poubelle2, #poubelle3 {margin-left: 40%; margin-bottom: 10%;}
+.titrejaune {background-color: #ffff66;}
+.titrevert {background-color: #33cc66;}
+.titrebleu {background-color: #0099ff;}
+.titrenoir {background-color: #808080;}
+
+.titrejaune1 h3 {background-color: #ffff66; padding: 5%;}
+.titrevert1 h3 {background-color: #33cc66; padding: 5%;}
+.titrebleu1 h3 {background-color: #0099ff; padding: 5%;}
+.titrenoir1 h3 {background-color: #808080; padding: 5%;}
