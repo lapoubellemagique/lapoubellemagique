@@ -1,4 +1,4 @@
 # La Poubelle Magique
 La Poubelle Magique
 
-lapoubellemagique.github.io/lapoubellemagique
+http://lapoubellemagique.github.io/lapoubellemagique
